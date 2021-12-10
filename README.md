@@ -1,4 +1,4 @@
-## Welcome everyone 👋
+## Welcome 👋
 
 <!--
 **Namonaki0/Namonaki0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,7 @@ www.andreferreiradev.com
 ### About me:
 -->
 
-### I am a self-taught Web Developer and love learning about the latest and most important tools in Web Development. I code every day and working hard is the only way I know. I am constantly improving my problem-solving skills and creativity.
-
-🔭 I’m currently working on a movie database in React where you can post comments about your favourite movies, browse through information and add/remove titles to your watchlist. Micro-interactions were all created from scratch and follow UX conventions - This project is desktop only.
+### I am a self-taught Web Developer and love learning about the latest and most important tools in Web Development. I code every day, working hard is the only way I know. I am constantly improving my problem-solving skills and creativity.
 
 ### Portfolio:
 www.andreferreiradev.com
