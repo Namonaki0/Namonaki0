@@ -14,6 +14,7 @@
 <img align="left" alt="Gatsby" width="26px" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" /> <img align="left" alt="graphql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img width="18px" alt="Figma-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/256px-Figma-logo.svg.png"> 
 
 ---------------------------------------
+![](https://komarev.com/ghpvc/?username=namonaki0&style=for-the-badge&color=blue)
 
 #### Get in contact:
 [![Linkedin Badge](https://img.shields.io/badge/-Andre%20Ferreira-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-ferreira-37835b53/) [![Mail Badge](https://img.shields.io/badge/-Andre%20Ferreira-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:andreferreira@live.co.uk)
